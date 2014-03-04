@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Green Fingers</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_main_screen">MainScreen</string>
+    <string name="Splash_Screen">Splash Screen</string>
+    <string name="New_Garden">New Garden</string>
+    <string name="New_Garden1">Add New Garen</string>
+    <string name="title_activity_getting_started">Green Fingers</string>
+    <string name="title_activity_desc">Desc</string>
+    <string name="title_activity_description">Description</string>
+    <string name="title_activity_plant_details">PlantDetails</string>
+    <string name="title_activity_notifications">Notifications</string>
+
+</resources>

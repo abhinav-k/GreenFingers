@@ -1,0 +1,32 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".Description" >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="“I’m planting a tree to learn from it how to gather strength from the deepest of roots”, a quote that every phytophile would just concord on. “GREEN FINGERS” is an app created to assist the strength of yours. Meticulously used, it could be a cornerstone for a plant lover.
+ 
+No longer blame yourself for forgetting to water your plants. The core purpose of the app is to give the user notification based on weather outside.
+The salient features of the app includes:-
+·         Give you timely notifications to take care of your plants.
+·         Use the weather forecast and calculate how many times you have to water if at all it is essential for you to water.
+·         Check out your peer gardeners’ progress
+ 
+What the user have to do?
+Download the app
+Give your garden a fancy name.
+Give the soil type available
+Select plants from the projected soil type which suits the user based on the data shown
+Sit back and read notifications and water the plants.
+ 
+ 
+Sounds interesting? Than why waiting? Do your part to revive the dying Earth. After all, A Green Home is a Clean Home." />
+
+</RelativeLayout>
